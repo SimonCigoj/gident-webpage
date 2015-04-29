@@ -1,2 +1,2 @@
 # gident-webpage
-the wepage for the gident company
+the webpage for the gident company
